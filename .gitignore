@@ -1,0 +1,47 @@
+
+
+# Ignoring files and folders in the ASP.NET Core Web API
+
+# /EBSystemBackEnd/EBSystem.API/bin
+# /EBSystemBackEnd/EBSystem.API/obj
+
+
+# /EBSystemBackEnd/EBSystem.Models/bin
+# /EBSystemBackEnd/EBSystem.Models/obj
+
+
+# /EBSystemBackEnd/EBSystem.Services/bin
+# /EBSystemBackEnd/EBSystem.Services/obj
+
+
+# /EBSystemBackEnd/EBSystem.Tests/bin
+# /EBSystemBackEnd/EBSystem.Tests/obj
+
+# C:\Users\v-gowthamanv\Documents\Git Repos\WCF-Service-Projects\HelloApps\HelloWebClient\HelloWebClient\obj\Debug\.NETFramework,Version=v4.8.AssemblyAttributes.cs
+
+/HelloApps/HelloWebClient/HelloWebClient/obj/Debug
+HelloApps/HelloService/HelloService/obj/Debug
+
+HelloApps/HelloWebClient/HelloWebClient/Connected Services
+HelloApps/HelloService/HelloServiceHost/obj/Debug
+
+HelloApps/HelloService/HelloServiceHost/bin/Debug
+
+HelloApps/HelloService/HelloService/bin/Debug
+
+HelloApps/HelloWebClient/HelloWebClient/bin
+# Ignoring microservice project structued object and binary
+
+
+
+
+
+# Ignoring file extensions
+
+*.vs
+*.pdb
+*.dll
+*.cache
+
+
+
